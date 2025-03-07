@@ -43,5 +43,5 @@ The database consists of the following tables:
    https://github.com/EmanElsayed2002/Database-Project.git
 <p align="center">
   <strong>Made by:</strong><br>
-  Eman Elsayed - Eman Sameh - Amira Gaber - Omar Mohamed - Michael - SeifEldien - Ahmed Tamer
+  Eman Elsayed - Eman Sameh - Amira Gaber - Omar Mohamed - Michael - Saifeldin Ahmos -  Ahmed Tamer
 </p>
